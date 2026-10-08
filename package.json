@@ -1,5 +1,24 @@
 {
-  "devDependencies": {
+  "name": "typescript_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
     "typescript": "^7.0.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahoop2002/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahoop2002/TypeScript/issues"
+  },
+  "homepage": "https://github.com/sahoop2002/TypeScript#readme",
+  "description": ""
 }
